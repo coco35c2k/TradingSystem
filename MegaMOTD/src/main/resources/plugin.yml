@@ -1,0 +1,7 @@
+name: MegaMOTD
+version: '${project.version}'
+main: solarsmp.megamotd.TradeSystem
+api-version: '1.19'
+author: coco
+commands:
+  trade:
